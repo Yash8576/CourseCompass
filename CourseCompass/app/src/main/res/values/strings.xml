@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Project3</string>
+
+
+    <string name="splash_title">Welcome to Explore Majors!</string>
+    <string name="splash_description">
+        Choosing a major is one of the most important decisions for your future.
+        Our app helps you explore different fields of study, providing insights into
+        career opportunities, growth potential, and exciting aspects of each major.
+    </string>
+    <string name="splash_footer">Tap "Explore Majors" to discover various academic disciplines
+        and find the one that aligns with your interests and career goals!</string>
+    <string name="explore_button">Explore Majors</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="major_titles">
+        <item>Computer Science</item>
+        <item>Biology</item>
+        <item>Economics</item>
+        <item>Chemistry</item>
+        <item>Mechanical Engineering</item>
+        <item>Psychology</item>
+    </string-array>
+
+</resources>
