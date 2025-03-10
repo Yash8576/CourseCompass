@@ -1,3 +1,5 @@
+Note: This is a prototype version of Course Compass, intended for demonstration and testing purposes.
+
 Course Compass
 
 Course Compass is an Android app designed to help students explore different academic majors. It provides insights into various fields of study, including career opportunities, growth potential, and key aspects of each discipline. The app features an interactive user interface with both portrait and landscape support.
